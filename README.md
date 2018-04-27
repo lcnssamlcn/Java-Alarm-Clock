@@ -16,6 +16,6 @@ where hh is two-digit hour ranging from [00, 23] and mm is two-digit minute rang
 
 ## Functions
 
-When the alarm is ringing, press
-    <Space> to snooze for 3 minutes
-    <Enter> to stop the alarm
+When the alarm is ringing, press \
+    &lt;Space&gt; to snooze for 3 minutes \
+    &lt;Enter&gt; to stop the alarm
