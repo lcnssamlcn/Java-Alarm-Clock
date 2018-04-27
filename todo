@@ -1,0 +1,3 @@
+- allow resize but width, height must be the same
+- transparent background
+- black alarm clock hand after finishes .run()
