@@ -2,6 +2,8 @@ src/restore.sh
 
 raw/*
 
+objects/*
+
 *.swp
 
 lesson

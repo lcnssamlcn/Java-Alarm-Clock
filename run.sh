@@ -9,6 +9,10 @@
 # alarm mode
 #    ./run.sh <hhmm>
 # where hh is a two-digit hour ranging from [00, 23] and mm is a two-digit minute ranging from [00, 59]
+#
+# While ringing in alarm mode, press
+#    <Space> to snooze for 3 minutes
+#    <Enter> to stop the alarm
 
 echo_err() {
     echo "$@" 1>&2
